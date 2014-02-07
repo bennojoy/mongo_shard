@@ -1,9 +1,9 @@
-shard
+mongo_shard
 ========
 
 This roles helps to enable sharding in a mongodb cluster. 
 
-In addition to this role if combined with other roles like mongod, mongos, mongoc this can used to 
+In addition to this role if combined with other roles like mongo_mongod, mongo_mongos, mongo_mongoc this can used to 
 build a production grade mongodb cluster with multi replication master and shards.
   
 
